@@ -33,7 +33,7 @@ public class M_BotModel implements ScreenModel {
                                                                                                       $$ |
                                                                                                       \\__|
                         """),
-                new M_LabelModel(1, 40, 16, 3, "Version 0.0")
+                new M_LabelModel(1, 40, 16, 3, "Version 1.0")
         );
         selectedAction = 0;
     }

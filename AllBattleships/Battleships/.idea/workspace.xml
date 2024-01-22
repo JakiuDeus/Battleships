@@ -10,48 +10,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ce19258-770a-4f14-8a1b-baf6112fd332" name="Changes" comment="gitignore">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/KeyVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/LanternaWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/SpecificWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/SwingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/game/ClientConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/game/HumanPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/game/SocketAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/G_Lanterna_GameBuildRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/G_Lanterna_GameRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/G_Lanterna_ScoreRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/G_Swing_GameBuildRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/G_Swing_GameRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/G_Swing_ScoreRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/M_Lanterna_MainRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/M_Swing_MainRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Battleships.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Battleships.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency-reduced-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/GameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/GameState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/BattleshipsGameCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/BattleshipsGameCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/BattleshipsMultiGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/BattleshipsMultiGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/BattleshipsSingleGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/BattleshipsSingleGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/G_ScoreController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/G_ScoreController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/GameController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/GameControllerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/GameControllerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/GameEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/GameEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/M_MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/controller/M_MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/game/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/game/Bot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/game/BotLevel1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/game/BotLevel1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/game/BotLevel2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/game/BotLevel2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/game/BotLevel3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/game/BotLevel3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/game/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/game/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/components/ComponentModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/components/ComponentModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/G_GameBuildRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/G_GameBuildRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/G_GameRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/G_GameRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/G_ScoreRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/G_ScoreRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/M_MainRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/M_MainRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/view/Renderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/screens/G_BuildModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/screens/G_BuildModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/screens/G_PlayModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/screens/G_PlayModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/screens/G_ScoreModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/screens/G_ScoreModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/screens/M_BotModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/screens/M_BotModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/screens/M_MainModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/screens/M_MainModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/screens/M_MultiModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/screens/M_MultiModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/screens/M_SettingsModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/jorlowski/model/screens/M_SettingsModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/jorlowski/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/jorlowski/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/jorlowski/game/BotTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BattleshipsServer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BattleshipsServer/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BattleshipsServer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BattleshipsServer/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +48,7 @@
         <entry key="$PROJECT_DIR$" value="f14dca9c3d9eb2a5de67a8801df7cf35a43dedbf" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProblemsViewState">
@@ -88,30 +62,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "extract.method.default.visibility": "private",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/jakub/StudiaGitHub/AlvaniCode/Sem5/KCK/Battleships",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MAIN_LANTERNA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jakub/StudiaGitHub/AlvaniCode/Sem5/KCK/Battleships&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="me.jorlowski.view" />
@@ -132,6 +107,14 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main">
+    <configuration name="MAIN_LANTERNA" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="me.jorlowski.Main" />
+      <module name="Battleships" />
+      <option name="PROGRAM_PARAMETERS" value="LANTERNA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="me.jorlowski.Main" />
       <module name="Battleships" />
@@ -162,6 +145,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.MAIN_LANTERNA" />
       <item itemvalue="Application.Main" />
       <item itemvalue="JAR Application.Battleships-0.0.jar" />
       <item itemvalue="JAR Application.Battleships-0.0.jar (1)" />
@@ -226,6 +210,8 @@
       <workItem from="1705617900810" duration="2000" />
       <workItem from="1705804051378" duration="1433000" />
       <workItem from="1705859120549" duration="19046000" />
+      <workItem from="1705886968170" duration="589000" />
+      <workItem from="1705887566819" duration="991000" />
     </task>
     <task id="LOCAL-00001" summary="Changed hierarchy of operation on MVC">
       <option name="closed" value="true" />

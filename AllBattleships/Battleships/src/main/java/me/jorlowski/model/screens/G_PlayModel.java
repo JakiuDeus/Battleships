@@ -27,7 +27,7 @@ public class G_PlayModel {
         board1.setCursor(cursorCol, cursorRow);
         board2 = playersBoard;
         labels = List.of(new M_LabelModel(1, 24, 16, 3, "Your move: ¾¾¾"),
-                new M_LabelModel(1, 40, 16, 3, "Version 0.0"));
+                new M_LabelModel(1, 40, 16, 3, "Version 1.0"));
         cursorCol = 0;
         lastCursorCol = 0;
         cursorRow = 0;

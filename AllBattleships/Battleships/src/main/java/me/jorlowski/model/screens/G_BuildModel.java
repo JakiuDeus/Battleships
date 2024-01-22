@@ -36,7 +36,7 @@ public class G_BuildModel{
                 new M_LabelModel(1, 27, 45, 3, "Enter to create or remove selected ship"),
                 new M_LabelModel(1, 30, 45, 3, "Arrows to move selected ship"),
                 new M_LabelModel(1, 33, 45, 3, "R to rotate ship (only if it has space)"),
-                new M_LabelModel(1, 40, 16, 3, "Version 0.0")
+                new M_LabelModel(1, 40, 16, 3, "Version 1.0")
 
         );
         selectedAction = 0;
